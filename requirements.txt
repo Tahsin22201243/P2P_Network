@@ -1,0 +1,7 @@
+# This project uses Python standard-library modules only.
+# No third-party packages are required.
+#
+# Python 3.9+ is recommended.
+#
+# tkinter is part of the standard library on Windows and most Linux desktop
+# installations, but some Linux distributions require installing Tk separately.
